@@ -1,4 +1,5 @@
 # HEART_DISEASE-DETECTION ❤️
+Author:- GAURAV SINGH BISHT
 
 Heart Disease Detection App
 

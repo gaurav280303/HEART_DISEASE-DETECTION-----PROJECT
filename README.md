@@ -154,7 +154,9 @@ HeartDiseaseApp/
 ├── heart.csv                       # Sample data (optional)
 └── README.md                       # Story & guide
 
-🚀 Try It Now
+🚀 Try It Now, by clicking on the link below:-
+
+https://heartdisease-detection-madeby-gaurav-singh-bisht.streamlit.app/
 
 Open the Live App
 

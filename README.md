@@ -209,9 +209,9 @@ Heart Disease Prediction
 
 ## 🤝 Contact
 Replace placeholders:
-- **GitHub:** https://github.com/gaurav-singh-tech  
-- **LinkedIn:** https://www.linkedin.com/in/<your-link>/  
-- **Email:** <your-email>  
+- **Portfolio:** <https://gaurav-singh-tech.github.io/portfolio/#about>
+- **LinkedIn:** <https://www.linkedin.com/in/contact-gauravsingh/>  
+- **Email:** <gauravbisht2803@gmail.com>  
 
 <div align="center">
 
